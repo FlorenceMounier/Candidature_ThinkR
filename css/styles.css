@@ -76,6 +76,23 @@
   }
 }
 
+/*!
+* Add custom code
+*/
+
+.DataReportR a span {
+display:none;
+}
+
+.DataReportR a:hover span {
+display:block;
+margin:0 0 0 0:
+}
+
+/*!
+* Add custom code
+*/
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
