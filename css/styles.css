@@ -156,7 +156,7 @@ a.comm:hover span {
   height: 400px;
   background-color: #fff;
   transform: translateY(100%)
-    translateY(-40px)
+    translateY(-60px)
     translateZ(0);
   transition: transform 0.3s ease-out;
 }
@@ -171,13 +171,13 @@ a.comm:hover span {
   background-size: cover;
   opacity: 0.25;
   transform: translateY(-100%)
-    translateY(40px)
+    translateY(60px)
     translateZ(0);
   transition: transform 0.3s ease-out;
 }
 .cardtitle {
   margin: 0;
-  padding: 24px;
+  padding: 16px;
   font-size: 26px;
   line-height: 0.5;
   color: rgba(0, 0, 0, 0.87);
@@ -185,7 +185,7 @@ a.comm:hover span {
 
 .description {
   margin: 0;
-  padding: 0 24px 24px;
+  padding: 0 16px 16px;
   font-size: 14px;
   line-height: 1;
 }
