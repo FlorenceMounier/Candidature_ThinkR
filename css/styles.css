@@ -156,7 +156,7 @@ a.comm:hover span {
   height: 400px;
   background-color: #fff;
   transform: translateY(100%)
-    translateY(-80px)
+    translateY(-40px)
     translateZ(0);
   transition: transform 0.3s ease-out;
 }
@@ -171,7 +171,7 @@ a.comm:hover span {
   background-size: cover;
   opacity: 0.25;
   transform: translateY(-100%)
-    translateY(80px)
+    translateY(40px)
     translateZ(0);
   transition: transform 0.3s ease-out;
 }
