@@ -80,15 +80,29 @@
 * Add custom code
 */
 
-.DataReportR a span {
-display:none;
-}
+/* img survol souris */  
+a.imag{  
+position: relative;  
+z-index: 1;  
+}  
+a.imag:hover{  
+  
+z-index: 2;  
+}  
+a.imag span{  
+  
+    display:none;  
+}  
+a.imag:hover span{  
+display:block;  
+position:absolute;  
+z-index: 3;  
+top: -15px;  
+left: 140px;  
+      
+}   
+/* -------------------*/  
 
-.DataReportR a:hover span {
-display:block;
-position:relative;
-margin:0 0 0 0:
-}
 
 /*!
 * Add custom code
