@@ -156,7 +156,7 @@ a.comm:hover span {
   height: 400px;
   background-color: #fff;
   transform: translateY(100%)
-    translateY(-88px)
+    translateY(-80px)
     translateZ(0);
   transition: transform 0.3s ease-out;
 }
@@ -171,23 +171,23 @@ a.comm:hover span {
   background-size: cover;
   opacity: 0.25;
   transform: translateY(-100%)
-    translateY(88px)
+    translateY(80px)
     translateZ(0);
   transition: transform 0.3s ease-out;
 }
 .cardtitle {
   margin: 0;
   padding: 24px;
-  font-size: 30px;
-  line-height: 1.2;
+  font-size: 26px;
+  line-height: 0.5;
   color: rgba(0, 0, 0, 0.87);
 }
 
 .description {
   margin: 0;
   padding: 0 24px 24px;
-  font-size: 18px;
-  line-height: 1.5;
+  font-size: 14px;
+  line-height: 1;
 }
 .card1:hover .information,
 .card1:hover .information:before {
