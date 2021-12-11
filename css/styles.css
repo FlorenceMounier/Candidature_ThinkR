@@ -179,7 +179,7 @@ a.comm:hover span {
   margin: 0;
   padding: 20px;
   font-size: 26px;
-  line-height: 0.5;
+  line-height: 1;
   color: rgba(0, 0, 0, 0.87);
 }
 
