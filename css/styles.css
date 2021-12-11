@@ -81,19 +81,19 @@
 */
 
 /* img survol souris */  
-a.imag{  
+a.survol{  
 position: relative;  
-z-index: 1;  
+  border-bottom:1px dashed #808080;
+  text-decoration: none; 
 }  
-a.imag:hover{  
-  
-z-index: 2;  
+a:hover.survol{ 
+text-decoration: none;
+  background: none;
 }  
-a.imag span{  
-  
-    display:none;  
-}  
-a.imag:hover span{  
+
+a.survol span{ display:none;  }  
+
+a:hover.survol span{  
 display:block;  
 position:absolute;  
 z-index: 3;  
