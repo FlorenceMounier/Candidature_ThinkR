@@ -108,7 +108,7 @@ left: 140px;
 /* txt survol souris */  
 a.info {
    position: relative;
-   color: #343a40;
+   color: #212529;
    text-decoration: none;
    border-bottom: 1px gray dotted; /* On souligne le texte. */
 }
@@ -131,7 +131,7 @@ a.info:hover span {
 
    background: white;
 
-   color: black;
+   color:  #212529;
    padding: 3px;
 
    border: 1px solid orange;
