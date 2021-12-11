@@ -104,7 +104,16 @@ left: 140px;
 /* -------------------*/  
 
 
-/* txt card université survol souris */  
+
+/* txt survol souris */  
+comment {
+    font-style: italic;
+    font-weight: 100;
+}
+/* -------------------*/  
+
+
+/* card université survol souris */  
 .card1 {
   border-radius: 16px;
   margin: 0 auto;
