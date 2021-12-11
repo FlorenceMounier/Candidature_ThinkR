@@ -108,7 +108,7 @@ left: 140px;
 /* txt survol souris */  
 a.info {
    position: relative;
-   color: black;
+   color: #343a40;
    text-decoration: none;
    border-bottom: 1px gray dotted; /* On souligne le texte. */
 }
@@ -118,7 +118,6 @@ a.info span {
 a.info:hover {
    background: none; /* Correction d'un bug d'Internet Explorer. */
    z-index: 500; /* On définit une valeur pour l'ordre d'affichage. */
-
    cursor: help; /* On change le curseur par défaut par un curseur d'aide. */
 }
 a.info:hover span {
@@ -132,11 +131,11 @@ a.info:hover span {
 
    background: white;
 
-   color: green;
+   color: black;
    padding: 3px;
 
-   border: 1px solid green;
-   border-left: 4px solid green;
+   border: 1px solid orange;
+   border-left: 2px solid orange;
 }
 /* -------------------*/  
 
