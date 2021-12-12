@@ -370,12 +370,16 @@ a.comm:hover span {
 /* -------------------*/  
 
 
-.colonnedroite {width:30%}
-.colonnegauche {width:70%}
+.colonnedroite {width:30%;
+padding: 14px;}
+.colonnegauche {width:70%;
+padding: 14px;}
 
-/*!
-* END add custom code
-*/
+
+/* ===================*/ 
+/* END add custom code*/ 
+/* ===================*/ 
+
 
 body {
   margin: 0;
