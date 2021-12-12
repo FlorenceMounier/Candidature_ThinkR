@@ -50,8 +50,9 @@ position:absolute;
 z-index: 3;  
 top: -15px;  
 left: 140px;
-background: white;
+background: #808080;
 padding: 3px;
+color:  #212529;
 border: 1px solid orange;
 border-left: 2px solid orange;
 }   
