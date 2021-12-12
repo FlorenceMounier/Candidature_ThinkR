@@ -15,8 +15,7 @@
 /* ADD custom code*/ 
 /* ===================*/ 
 .iconRg:after {
-   content: url('https://api.iconify.design/simple-icons/researchgate.svg');
-   vertical-align: -0.125em;
+   content: url('https://api.iconify.design/simple-icons/researchgate.svg?color=white');
 }
 
 /* -----------*/ 
