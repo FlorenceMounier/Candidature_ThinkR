@@ -41,6 +41,7 @@ position: relative;
 a:hover.survol{ 
 text-decoration: none;
   background: none;
+  cursor: help; /* On change le curseur par défaut par un curseur d'aide. */
 }  
 a.survol span{ display:none;  }  
 a:hover.survol span{  
@@ -48,7 +49,11 @@ display:block;
 position:absolute;  
 z-index: 3;  
 top: -15px;  
-left: 140px;   
+left: 140px;
+background: white;
+padding: 3px;
+border: 1px solid orange;
+border-left: 2px solid orange;
 }   
 
 
