@@ -14,6 +14,9 @@
 /* ===================*/ 
 /* ADD custom code*/ 
 /* ===================*/ 
+
+/* -----------*/ 
+/* Researchgate icon   */ 
 .iconRg:after {
    content: url('https://api.iconify.design/simple-icons/researchgate.svg?color=white&width=26&height=26');
 }
