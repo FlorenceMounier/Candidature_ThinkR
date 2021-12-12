@@ -254,6 +254,65 @@ a.comm:hover span {
 /* -------------------*/  
 
 
+/* card change survol souris */  
+.card3 {
+  border-radius: 16px;
+  margin: 0 auto;
+  width: 400px;
+  max-width: 100%;
+  min-height: 400px;
+  box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  background-image: url("pexels-bich-tran-760721.jpg");
+  background-size: cover;
+}
+.information3 {
+  position: relative;
+  width: 100%;
+  height: 400px;
+  background-color: #fff;
+  transform: translateY(100%)
+    translateY(-55px)
+    translateZ(0);
+  transition: transform 0.3s ease-out;
+}
+.information3:before {
+  z-index: -1;
+  display: block; position: absolute;
+  content: ' ';
+  width: 100%; height: 100%;
+  overflow: hidden;
+  background-image: url("pexels-bich-tran-760721.jpg");
+  filter: blur(10px);
+  background-size: cover;
+  opacity: 0.25;
+  transform: translateY(-100%)
+    translateY(55px)
+    translateZ(0);
+  transition: transform 0.3s ease-out;
+}
+.card3title {
+  margin: 0;
+  padding: 14px;
+  font-size: 20px;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.description3 {
+  margin: 0;
+  padding: 0 16px 16px;
+  font-size: 14px;
+  line-height: 1;
+}
+.card3:hover .information3,
+.card3:hover .information3:before {
+  transform: translateY(0) translateZ(0);
+}
+/* -------------------*/  
+
+
+
 .colonnedroite {width:30%}
 .colonnegauche {width:70%}
 
