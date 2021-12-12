@@ -1,7 +1,6 @@
 # Candidature_ThinkR
 <strong>
-Candidature au poste de Consultante, développeuse et formatrice R chez ThinkR
-<br/>Décembre 2021
+Candidature au poste de Consultante, développeuse et formatrice R chez ThinkR, Décembre 2021.
 </strong>
 
 
