@@ -14,7 +14,9 @@
 /* ===================*/ 
 /* ADD custom code*/ 
 /* ===================*/ 
-
+#Rgicon {
+content: url('https://api.iconify.design/simple-icons/researchgate.svg');
+}
 
 /* -----------*/ 
 /* colonnes   */ 
