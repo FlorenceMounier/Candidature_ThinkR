@@ -58,7 +58,7 @@ top: -15px;
 left: 140px;
 background: white;
 padding: 10px;
-color:  #212529;
+color:  #6c757d;
 border: 2px solid #bd5d38;
 border-left: 3px solid #bd5d38;
 }   
@@ -69,9 +69,9 @@ border-left: 3px solid #bd5d38;
 
 a.comm {
    position: relative;
-   color: #212529;
+   color: #6c757d;
    text-decoration: none;
-   border-bottom: 1px gray dotted; /* On souligne le texte. */
+   border-bottom: 1px dotted #6c757d; /* On souligne le texte. */
 }
 a.comm span {
    display: none; /* On masque l'infobulle. */
@@ -90,7 +90,7 @@ a.comm:hover span {
 
    background: white;
 
-   color:  #212529;
+   color:  #6c757d;
    padding: 3px;
 
    border: 1px solid orange;
