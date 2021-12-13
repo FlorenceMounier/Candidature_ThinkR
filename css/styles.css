@@ -332,7 +332,11 @@ a.comm:hover span {
   transform: translateY(0) translateZ(0);
 }
 
-
+b,
+strong {
+  font-weight: bolder;
+  color: #bd5d38;
+}
 
 /* ===================*/ 
 /* END add custom code*/ 
@@ -536,11 +540,12 @@ blockquote {
   margin: 0 0 1rem;
 }
 
+/*!
 b,
 strong {
   font-weight: bolder;
 }
-
+*/
 small, .small {
   font-size: 0.875em;
 }
