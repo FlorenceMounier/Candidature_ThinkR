@@ -327,8 +327,8 @@ a.comm:hover span {
   font-size: 14px;
   line-height: 1;
 }
-.card4:hover .information3,
-.card4:hover .information3:before {
+.card4:hover .information4,
+.card4:hover .information4:before {
   transform: translateY(0) translateZ(0);
 }
 
