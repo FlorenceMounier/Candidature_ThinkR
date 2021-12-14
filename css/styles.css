@@ -160,6 +160,7 @@ a.comm:hover span {
 /* card2 MICROETS survol souris */  
 
 .card2 {
+  float:left;
   border-radius: 16px;
   margin: 0 auto;
   width: 400px;
@@ -219,6 +220,7 @@ a.comm:hover span {
 /* card3 CHANGE survol souris */ 
 
 .card3 {
+  float:right;
   border-radius: 16px;
   margin: 0 auto;
   width: 400px;
@@ -278,6 +280,7 @@ a.comm:hover span {
 /* card4 DO survol souris */  
 
 .card4 {
+  float:left;
   border-radius: 16px;
   margin: 0 auto;
   width: 400px;
