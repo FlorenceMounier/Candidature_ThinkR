@@ -130,6 +130,7 @@ a.comm:hover span {
   transition: transform 0.3s ease-out;
 }
 .information1:before {
+  float:right;
   z-index: -1;
   display: block; position: absolute;
   content: ' ';
