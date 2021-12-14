@@ -28,21 +28,11 @@ content: url('https://api.iconify.design/simple-icons/researchgate.svg?color=%23
 }
 
 /* -----------*/ 
-/* colonnes   */ 
+/* float bottom  */ 
 
-.float_L {
-float:left;
-}
-.float_R {
-float:right;
-}
 .bottom{
    clear: both;
 		}
-.colonne30prct {width:30%;
-padding: 14px;}
-.colonne70prct {width:70%;
-padding: 14px;}
 
 
 /* ------------------*/ 
