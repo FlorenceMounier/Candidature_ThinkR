@@ -163,6 +163,7 @@ a.comm:hover span {
   float:left;
   border-radius: 16px;
   margin: 0 auto;
+  margin-right: 10px;
   width: 400px;
   max-width: 100%;
   min-height: 400px;
