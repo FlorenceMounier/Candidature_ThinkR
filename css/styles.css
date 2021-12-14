@@ -119,6 +119,7 @@ a.comm:hover span {
   background-size: cover;
 }
 .information1 {
+  float:right;
   position: relative;
   width: 100%;
   height: 400px;
