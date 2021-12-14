@@ -30,6 +30,13 @@ content: url('https://api.iconify.design/simple-icons/researchgate.svg?color=%23
 /* -----------*/ 
 /* colonnes   */ 
 
+.float_L {
+float:left;
+}
+.float_R {
+float:right;
+}
+
 .colonne30prct {width:30%;
 padding: 14px;}
 .colonne70prct {width:70%;
