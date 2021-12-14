@@ -322,7 +322,7 @@ a.comm:hover span {
 }
 .card4title {
   margin: 0;
-  padding: 14px;
+  padding: 14px 14px 10px;
   font-size: 20px;
   line-height: 1;
   color: rgba(0, 0, 0, 0.87);
