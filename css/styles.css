@@ -52,7 +52,10 @@ a:hover {
   text-align: justify;
   text-justify: inter-word;
 }
-
+body {
+  text-align: justify;
+  text-justify: inter-word;
+}
 
 /* -----------*/ 
 /* float bottom  */ 
