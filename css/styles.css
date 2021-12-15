@@ -48,6 +48,11 @@ a:hover {
   margin-bottom: 2rem !important;
 }
 
+.top 
+{    
+vertical-align: top;     
+}   
+
 
 /* -----------*/ 
 /* float bottom  */ 
