@@ -48,10 +48,10 @@ a:hover {
   margin-bottom: 2rem !important;
 }
 
-.top 
-{    
-vertical-align: top;     
-}   
+.px-md-2rem{
+    padding-right: 2rem !important;
+    padding-left: 2rem !important;
+}
 
 
 /* -----------*/ 
