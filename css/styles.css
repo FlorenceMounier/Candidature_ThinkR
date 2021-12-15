@@ -43,8 +43,8 @@ a:hover {
   color: #343a40;
 }
 
-.subheading{
-	margin-bottom: 1.5rem;
+.mb-2rem {
+  margin-bottom: 2rem !important;
 }
 
 /* -----------*/ 
