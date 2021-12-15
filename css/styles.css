@@ -31,14 +31,9 @@ content: url('https://api.iconify.design/simple-icons/researchgate.svg?color=%23
 .width500px{
 	width: 500px;
 }
-#conteneur
-{
+.carre{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
-    width: 500px;
-    align-items: center;
-
 }
 	
 
