@@ -139,7 +139,7 @@ a.comm:hover span {
 .card1 {
   float:right;
   border-radius: 16px;
-  margin: 8px;
+  margin: 10px;
   width: 400px;
   max-width: 100%;
   min-height: 400px;
@@ -199,8 +199,7 @@ a.comm:hover span {
 .card2 {
   float:left;
   border-radius: 16px;
-  margin: 0 auto;
-  margin-right: 10px;
+  margin: 10px;
   width: 400px;
   max-width: 100%;
   min-height: 400px;
@@ -260,8 +259,7 @@ a.comm:hover span {
 .card3 {
   float:right;
   border-radius: 16px;
-  margin: 0 auto;
-  margin-left: 10px;
+  margin: 10px;
   width: 400px;
   max-width: 100%;
   min-height: 400px;
@@ -321,8 +319,7 @@ a.comm:hover span {
 .card4 {
   float:left;
   border-radius: 16px;
-  margin: 0 auto;
-  margin-right: 10px;
+  margin: 10px;
   width: 500px;
   max-width: 100%;
   min-height: 500px;
