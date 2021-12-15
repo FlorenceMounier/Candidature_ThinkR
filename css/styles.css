@@ -16,29 +16,6 @@
 /* ===================*/ 
 
 
-.navbar ul {
-  position:relative;
-  width:100%; 
-  list-style:none outside none;
-  display:table;
-}
-.navbar ul > li {
-  display:table-cell;
-}
-.navbar ul:before, .navbar ul:after {
-  display:table; content:''; clear:both;
-  /* permet de remettre les li float:left dans le flux */
-}
-.navbar > ul li ul {
-  display:none; /* sous-menu masqués */
-  position:absolute;
-  top:100%;
-  left:0;
-}
-.navbar li:hover > ul {
-  display:block; /* sous-menu affiché */
-  display:table;
-}
 
 /* -----------*/ 
 /* Researchgate icons   */ 
