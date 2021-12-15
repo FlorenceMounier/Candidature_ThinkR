@@ -37,8 +37,9 @@ content: url('https://api.iconify.design/simple-icons/researchgate.svg?color=%23
 /* -----------*/ 
 /* lists  */ 
 
-.li{
-   line-height: 1.2em
+ul > li {
+  margin: .5em 0;
+  line-height: 1.15;
 }
 
 /* ------------------*/ 
