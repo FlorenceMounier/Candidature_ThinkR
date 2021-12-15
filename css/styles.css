@@ -4140,6 +4140,7 @@ textarea.form-control-lg {
   color: #212529;
   text-align: inherit;
   text-decoration: none;
+  transition-duration: 0.5s;
   white-space: nowrap;
   background-color: transparent;
   border: 0;
