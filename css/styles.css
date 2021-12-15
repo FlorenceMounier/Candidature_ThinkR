@@ -48,9 +48,9 @@ a:hover {
   margin-bottom: 2rem !important;
 }
 
-.px-md-2rem{
-    padding-right: 2rem !important;
-    padding-left: 2rem !important;
+.justifier {
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 
