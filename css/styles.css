@@ -47,6 +47,18 @@ a:hover {
   margin-bottom: 2rem !important;
 }
 
+hr_sub {
+  margin: 1rem 0;
+  color: inherit;
+  background-color: currentColor;
+  border: 0;
+  opacity: 0.25;
+}
+
+hr_sub:not([size]) {
+  height: 1px;
+}
+
 /* -----------*/ 
 /* float bottom  */ 
 
