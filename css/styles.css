@@ -28,14 +28,15 @@
 content: url('https://api.iconify.design/simple-icons/researchgate.svg?color=%23606060');
 }
 
-
+.width500px{
+	width: 500px;
+}
 #conteneur
 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     width: 500px;
-    height: 1000px;
     align-items: center;
 
 }
