@@ -53,8 +53,12 @@ body, subheading, .subheading, p, .p {
   text-justify: inter-word;
 }
 
-#col {
+#col2 {
   column-count: 2;
+}
+
+#col3 {
+  column-count: 3;
 }
 
 /* -----------*/ 
