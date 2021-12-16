@@ -101,8 +101,8 @@ a:hover.survol span{
 display:block;  
 position:absolute;  
 z-index: 3;  
-top: -15px;  
-left: -100px;
+top: 15px;  
+left: -200px;
 background: white;
 padding: 10px;
 color:  #6c757d;
