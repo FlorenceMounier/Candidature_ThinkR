@@ -102,7 +102,7 @@ display:block;
 position:absolute;  
 z-index: 3;  
 top: -15px;  
-left: 10px;
+left: -100px;
 background: white;
 padding: 10px;
 color:  #6c757d;
